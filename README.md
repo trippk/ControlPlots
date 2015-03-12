@@ -1,3 +1,3 @@
 # ControlPlots
-#usage: ./check.py "rootFileName" (without .root)
-#i.e.: ./check.py CMG_MC_TTbar
+usage: ./check.py "rootFileName" (without .root)
+i.e.: ./check.py CMG_MC_TTbar
